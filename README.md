@@ -18,7 +18,7 @@
 
 ## 📋 Opis
 
-**ADownloader** to aplikacja Android do pobierania filmów i muzyki z serwisu YouTube oraz innych źródeł online.  
+**ADownloader** to aplikacja Android do pobierania plików z hostingów, filmów i muzyki z serwisu YouTube, TikTok oraz innych źródeł online.  
 Pozwala zarządzać kolejką pobierań, wybierać jakość wideo oraz format audio – wszystko w jednym miejscu.
 
 ---
@@ -35,7 +35,7 @@ Pozwala zarządzać kolejką pobierań, wybierać jakość wideo oraz format aud
 | ⏸️ Pauza / Zatrzymanie | Pełna kontrola nad trwającymi pobieraniami |
 | 📊 Pasek postępu | Podgląd procentu ukończenia i rozmiaru pliku w czasie rzeczywistym |
 | 👤 Menadżer kont premium | Obsługa kont premium do pobierania z serwisów wymagających logowania |
-| 🔍 Wyszukiwarka | Szybkie przeszukiwanie listy pobierań |
+| 🔍 Wyszukiwarka | Szybkie przeszukiwanie listy menadżera kont |
 | ⚙️ Ustawienia | Globalne ustawienia jakości i formatu pobierania |
 
 ---
@@ -78,7 +78,7 @@ Jako materiał demonstracyjny użyto publicznego filmu z YouTube:
 
 - **Platforma:** Android
 - **Konwersja audio:** FFmpeg (MP3)
-- **Obsługiwane źródła:** YouTube i inne serwisy online
+- **Obsługiwane źródła:** hostingi, YouTube, TikTok i inne serwisy online
 
 ---
 
